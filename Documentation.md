@@ -1,7 +1,3 @@
-# Combined Documentation
-
-> This file consolidates all documents generated for Project 3 (Enterprise IT Asset Lifecycle Management): full Phase 1-12 docs.
-
 ---
 
 # Project 3 - Enterprise IT Asset Lifecycle Management (Phase 1-12 Docs)
